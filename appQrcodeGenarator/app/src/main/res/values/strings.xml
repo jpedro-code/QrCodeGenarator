@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">appQrcodeGenarator</string>
+    <string name="qrcode_genarator">QrCode Genarator</string>
+    <string name="name">name</string>
+    <string name="conteudo_qr_code">Digite o Conteúdo do QrCode</string>
+</resources>
